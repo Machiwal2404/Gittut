@@ -3,3 +3,5 @@ console.log('learning front end');
 
 
 document.getElementbyId
+
+document.getElementsbyTAgName
