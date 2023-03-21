@@ -5,3 +5,5 @@ console.log('learning front end');
 document.getElementbyId
 
 document.getElementsbyTAgName
+
+document.querySelector("a[target]");
